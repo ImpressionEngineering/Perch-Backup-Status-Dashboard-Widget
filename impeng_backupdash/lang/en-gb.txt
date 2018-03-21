@@ -1,0 +1,7 @@
+{
+    "lang": "en-gb",
+    "Backups Widget": "Backups Widget",
+    "Backup Status": "Backup Status",
+    "No backup runs": "No backup runs",
+    "No backup plans exist": "No backup plans exist"
+}
