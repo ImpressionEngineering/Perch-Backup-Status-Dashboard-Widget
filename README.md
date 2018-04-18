@@ -1,3 +1,4 @@
+[![Perchology badge](https://img.shields.io/badge/As_seen_on-Perchology-6699cc.svg)](https://perchology.curated.co/)
 # Perch Runway Backup Status Dashboard Widget
 
 
